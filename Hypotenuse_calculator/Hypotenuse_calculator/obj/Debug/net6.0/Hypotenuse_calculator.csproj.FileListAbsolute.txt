@@ -1,0 +1,15 @@
+C:\Users\User\Documents\C#\Hypotenuse_calculator\Hypotenuse_calculator\bin\Debug\net6.0\Hypotenuse_calculator.exe
+C:\Users\User\Documents\C#\Hypotenuse_calculator\Hypotenuse_calculator\bin\Debug\net6.0\Hypotenuse_calculator.deps.json
+C:\Users\User\Documents\C#\Hypotenuse_calculator\Hypotenuse_calculator\bin\Debug\net6.0\Hypotenuse_calculator.runtimeconfig.json
+C:\Users\User\Documents\C#\Hypotenuse_calculator\Hypotenuse_calculator\bin\Debug\net6.0\Hypotenuse_calculator.dll
+C:\Users\User\Documents\C#\Hypotenuse_calculator\Hypotenuse_calculator\bin\Debug\net6.0\Hypotenuse_calculator.pdb
+C:\Users\User\Documents\C#\Hypotenuse_calculator\Hypotenuse_calculator\obj\Debug\net6.0\Hypotenuse_calculator.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\Hypotenuse_calculator\Hypotenuse_calculator\obj\Debug\net6.0\Hypotenuse_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\C#\Hypotenuse_calculator\Hypotenuse_calculator\obj\Debug\net6.0\Hypotenuse_calculator.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#\Hypotenuse_calculator\Hypotenuse_calculator\obj\Debug\net6.0\Hypotenuse_calculator.AssemblyInfo.cs
+C:\Users\User\Documents\C#\Hypotenuse_calculator\Hypotenuse_calculator\obj\Debug\net6.0\Hypotenuse_calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\Hypotenuse_calculator\Hypotenuse_calculator\obj\Debug\net6.0\Hypotenuse_calculator.dll
+C:\Users\User\Documents\C#\Hypotenuse_calculator\Hypotenuse_calculator\obj\Debug\net6.0\refint\Hypotenuse_calculator.dll
+C:\Users\User\Documents\C#\Hypotenuse_calculator\Hypotenuse_calculator\obj\Debug\net6.0\Hypotenuse_calculator.pdb
+C:\Users\User\Documents\C#\Hypotenuse_calculator\Hypotenuse_calculator\obj\Debug\net6.0\Hypotenuse_calculator.genruntimeconfig.cache
+C:\Users\User\Documents\C#\Hypotenuse_calculator\Hypotenuse_calculator\obj\Debug\net6.0\ref\Hypotenuse_calculator.dll
